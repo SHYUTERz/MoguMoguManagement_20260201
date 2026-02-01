@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: de0a0c36775abb241a7fa05583beb32b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Ceiling01
+    second: {fileID: 2100000, guid: 69e63e4b31311964ebf01755417cf6e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Ceiling02
+    second: {fileID: 2100000, guid: 52a3ec3b8a4bcf049af3dacec179f29b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Ceiling03
+    second: {fileID: 2100000, guid: dbe3358a02b55ad41851401950c3b270, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Ceiling04
+    second: {fileID: 2100000, guid: 2691b5b610aaf3b40af6594a711e9feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Flooring01
+    second: {fileID: 2100000, guid: c82597bf4ad70524d8c27e8e83670202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Flooring02
+    second: {fileID: 2100000, guid: f8545d75f3f959d43a41a15c1c5e3f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Flooring03
+    second: {fileID: 2100000, guid: d222af1035a6efe4e883815fbc3889c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Flooring04
+    second: {fileID: 2100000, guid: 65a0092f4d53c494582a77e003fc8b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Wall01
+    second: {fileID: 2100000, guid: 60deb6cdb254ca3428f9d598106f1866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Wall02
+    second: {fileID: 2100000, guid: 79838f4e78844f14997bec215945c16d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Wall03
+    second: {fileID: 2100000, guid: b2c795f2ed9d2944bb7512755bbe0d00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SeedCounterRoom_Wall04
+    second: {fileID: 2100000, guid: 2957074727a190e42b4e9e03d32c9bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Window01
+    second: {fileID: 2100000, guid: 2e357ac5009a1fa439a1c5d9ceac8369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wood03
+    second: {fileID: 2100000, guid: 477f6b7b65cfef147b10449527f32286, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Ceiling01_256
+    second: {fileID: 2800000, guid: ce23e3fca1af3624abfa4ac90f929299, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Ceiling02_256
+    second: {fileID: 2800000, guid: 35db4c56f4792d5429be88f2bd504836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Ceiling03_256
+    second: {fileID: 2800000, guid: 59e5ef76eb48a66429e651b69427bc3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Flooring01_512
+    second: {fileID: 2800000, guid: 1d5184c6963bee244bc46df4d96facb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Flooring02_512
+    second: {fileID: 2800000, guid: 4b5c880045b481c4795f75cfd765c293, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Flooring03_512
+    second: {fileID: 2800000, guid: 5bc25abaae899ea47a9c983bc87af06c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Flooring04_512
+    second: {fileID: 2800000, guid: bc85838e65db5674598aaa4ac26d116d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Pillars01_256
+    second: {fileID: 2800000, guid: 2fcdb2dbbf324e24b87f41bfed31c072, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Wall01_1024
+    second: {fileID: 2800000, guid: dcec84a14337f5a46a621e6615535394, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Wall02_1024
+    second: {fileID: 2800000, guid: fa9c49107dd7771489efc8dada408cb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Wall03_1024
+    second: {fileID: 2800000, guid: 16fe61b5fa722434ea33f32456555a58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: N_SeedCounterRoom_Wall04_1024
+    second: {fileID: 2800000, guid: 774a38f76d3f2dc45a83e1d592656c89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Ceiling01_256
+    second: {fileID: 2800000, guid: e0a43df2448b1084abf2bd0d785e410f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Ceiling02_256
+    second: {fileID: 2800000, guid: c8aef73e1ae68d641bf3c6770f29f376, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Ceiling03_256
+    second: {fileID: 2800000, guid: 236029c5dd1c86b40a8ce3ae158c5f6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Flooring01_512
+    second: {fileID: 2800000, guid: c8db34b53ed9e784c825f19d00c56f87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Flooring02_512
+    second: {fileID: 2800000, guid: 9063beaa26c461b46a9b3cc60af456df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Flooring03_512
+    second: {fileID: 2800000, guid: 072cd8fdecdd59645a68ad4d6304d508, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Flooring04_512
+    second: {fileID: 2800000, guid: 4846b5af44358fa4b8cd1335fa1f46a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Pillars01_256
+    second: {fileID: 2800000, guid: 9522cf3cf0cccb04facbe6dcddf656de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Wall01_1024
+    second: {fileID: 2800000, guid: 2edbb4dd005f5ff4685a4662b0fba1ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Wall02_1024
+    second: {fileID: 2800000, guid: a82c495c4b9daa34d81bc09a2eeb05ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Wall03_1024
+    second: {fileID: 2800000, guid: c97839abd7b9d7d4f84e4e8a3cb7a621, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_SeedCounterRoom_Wall04_1024
+    second: {fileID: 2800000, guid: 7da0918b0edb0964f9c3d11a7fe04bf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Wood02
+    second: {fileID: 2800000, guid: 6e8281fc2e0504e48b80117b4573eeac, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
