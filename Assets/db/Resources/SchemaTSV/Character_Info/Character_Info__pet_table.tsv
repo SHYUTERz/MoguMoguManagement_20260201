@@ -1,0 +1,14 @@
+table	ordinal	column	type	notnull	pk	autoinc	default	sql
+pet_table	1	pet_id	INTEGER	1	1	1		CREATE TABLE IF NOT EXISTS pet_table (pet_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, pet_icon INTEGER NOT NULL, pet_name TEXT NOT NULL, pet_type INTEGER NOT NULL, pet_variety INTEGER NOT NULL, pet_personality INTEGER NOT NULL, pet_dob INTEGER NOT NULL, pet_age INTEGER NOT NULL, pet_state INTEGER NOT NULL, pet_tr INTEGER NOT NULL, pet_gs INTEGER NOT NULL, pet_ds INTEGER NOT NULL, pet_pl INTEGER NOT NULL)
+pet_table	2	pet_icon	INTEGER	1	0	0		
+pet_table	3	pet_name	TEXT	1	0	0		
+pet_table	4	pet_type	INTEGER	1	0	0		
+pet_table	5	pet_variety	INTEGER	1	0	0		
+pet_table	6	pet_personality	INTEGER	1	0	0		
+pet_table	7	pet_dob	INTEGER	1	0	0		
+pet_table	8	pet_age	INTEGER	1	0	0		
+pet_table	9	pet_state	INTEGER	1	0	0		
+pet_table	10	pet_tr	INTEGER	1	0	0		
+pet_table	11	pet_gs	INTEGER	1	0	0		
+pet_table	12	pet_ds	INTEGER	1	0	0		
+pet_table	13	pet_pl	INTEGER	1	0	0		

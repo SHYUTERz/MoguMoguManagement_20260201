@@ -1,0 +1,4 @@
+table	ordinal	column	type	notnull	pk	autoinc	default	sql
+schema_version	1	id	INTEGER	1	1	0		CREATE TABLE IF NOT EXISTS schema_version (id INTEGER PRIMARY KEY NOT NULL, version INTEGER NOT NULL, applied_at TEXT NOT NULL)
+schema_version	2	version	INTEGER	1	0	0		
+schema_version	3	applied_at	TEXT	1	0	0		

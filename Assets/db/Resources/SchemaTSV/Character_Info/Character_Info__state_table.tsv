@@ -1,0 +1,9 @@
+table	ordinal	column	type	notnull	pk	autoinc	default	sql
+state_table	1	state_id	INTEGER	1	1	1		CREATE TABLE IF NOT EXISTS state_table (state_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, state_moisture INTEGER NOT NULL, state_nutrients INTEGER NOT NULL, state_sunlight INTEGER NOT NULL, state_pest INTEGER NOT NULL, state_health INTEGER NOT NULL, state_stress INTEGER NOT NULL, state_decay INTEGER NOT NULL)
+state_table	2	state_moisture	INTEGER	1	0	0		
+state_table	3	state_nutrients	INTEGER	1	0	0		
+state_table	4	state_sunlight	INTEGER	1	0	0		
+state_table	5	state_pest	INTEGER	1	0	0		
+state_table	6	state_health	INTEGER	1	0	0		
+state_table	7	state_stress	INTEGER	1	0	0		
+state_table	8	state_decay	INTEGER	1	0	0		

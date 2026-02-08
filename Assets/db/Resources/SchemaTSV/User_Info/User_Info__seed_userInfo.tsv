@@ -1,0 +1,2 @@
+table	ordinal	column	type	notnull	pk	autoinc	default	sql
+userInfo_seed	1							INSERT INTO userInfo_table (user_gamemode,user_growing_pet,user_wallet,user_coin,app_last_closed_at,app_last_opened_at) SELECT 0,0,0,0,0,0 WHERE NOT EXISTS (SELECT 1 FROM userInfo_table)

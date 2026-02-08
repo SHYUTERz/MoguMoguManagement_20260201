@@ -1,0 +1,8 @@
+table	ordinal	column	type	notnull	pk	autoinc	default	sql
+userInfo_table	1	user_id	INTEGER	1	1	1		CREATE TABLE IF NOT EXISTS userInfo_table (user_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, user_gamemode INTEGER NOT NULL, user_growing_pet INTEGER NOT NULL, user_wallet INTEGER NOT NULL, user_coin INTEGER NOT NULL, app_last_closed_at INTEGER NOT NULL DEFAULT 0, app_last_opened_at INTEGER NOT NULL DEFAULT 0)
+userInfo_table	2	user_gamemode	INTEGER	1	0	0		
+userInfo_table	3	user_growing_pet	INTEGER	1	0	0		
+userInfo_table	4	user_wallet	INTEGER	1	0	0		
+userInfo_table	5	user_coin	INTEGER	1	0	0		
+userInfo_table	6	app_last_closed_at	INTEGER	1	0	0	0	
+userInfo_table	7	app_last_opened_at	INTEGER	1	0	0	0	

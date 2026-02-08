@@ -1,0 +1,4 @@
+table	ordinal	column	type	notnull	pk	autoinc	default	sql
+icon_table	1	icon_id	INTEGER	1	1	1		CREATE TABLE IF NOT EXISTS icon_table (icon_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, icon_image BLOB NOT NULL, pet_id INTEGER NOT NULL)
+icon_table	2	icon_image	BLOB	1	0	0		
+icon_table	3	pet_id	INTEGER	1	0	0		

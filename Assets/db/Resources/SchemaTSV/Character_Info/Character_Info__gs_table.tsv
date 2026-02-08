@@ -1,0 +1,3 @@
+table	ordinal	column	type	notnull	pk	autoinc	default	sql
+gs_table	1	gs_id	INTEGER	1	1	1		CREATE TABLE IF NOT EXISTS gs_table (gs_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, gs_name TEXT NOT NULL)
+gs_table	2	gs_name	TEXT	1	0	0		
